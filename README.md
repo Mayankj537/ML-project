@@ -1,0 +1,1 @@
+This project involves the creation of a neural network for digit recognition from scratch, using foundational concepts of machine learning such as gradient descent, forward propagation, and backward propagation. The model is designed to recognize handwritten digits from the MNIST dataset
